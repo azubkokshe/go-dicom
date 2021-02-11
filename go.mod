@@ -3,10 +3,9 @@ module github.com/azubkokshe/go-dicom
 go 1.15
 
 require (
-	github.com/gobwas/glob v0.0.0-20170212200151-51eb1ee00b6d
-	github.com/grailbio/go-dicom v0.0.0-20190117035129-c30d9eaca591
+	github.com/gobwas/glob v0.2.3
 	github.com/stretchr/testify v1.2.2
-	golang.org/x/text v0.3.0
+	golang.org/x/text v0.3.5
 )
 
 replace github.com/ceph/go-ceph => ../../ceph/go-ceph
