@@ -4,6 +4,8 @@ go 1.15
 
 require (
 	github.com/gobwas/glob v0.2.3
+	github.com/grailbio/go-dicom v0.0.0-20190117035129-c30d9eaca591
+	github.com/sirupsen/logrus v1.7.0
 	github.com/stretchr/testify v1.2.2
 	golang.org/x/text v0.3.5
 )
